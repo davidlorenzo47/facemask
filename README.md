@@ -2,7 +2,8 @@
 Face mask detection using Haar Cascade and SVM
 
 For implementation refer : 
-![Implementation](https://user-images.githubusercontent.com/50963861/121855476-019aea80-cd11-11eb-81a8-a9153903a601.png)
+![Implementation](https://user-images.githubusercontent.com/50963861/121855703-4888e000-cd11-11eb-825e-d65fe6b29ee6.png)
+
 
 
 Final Output will be as follows : 
