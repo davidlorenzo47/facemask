@@ -64,7 +64,7 @@ def window1():
         aboutwin.config(bg=mycolor)
         canvas = tk.Canvas(aboutwin, width = 750, height = 650,bg=mycolor)
         canvas.pack()
-        imag = ImageTk.PhotoImage(Image.open("logopce1.png"))
+        imag = ImageTk.PhotoImage(Image.open("logopce.png"))
         canvas.create_image(375,150,image=imag)  
         tk.Label(aboutwin,text = "Project Members",font=("Arial",22,"bold"),bg=mycolor,fg='white').place(x=250,y=280)
         tk.Label(aboutwin,text = "Member 1",font=("Arial",18),bg=mycolor,fg='white').place(x = 260,y = 350)
