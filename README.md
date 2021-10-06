@@ -31,7 +31,7 @@ Final Output will be as follows :
  <br>The same goes for mask not covering nose and mouth (No Mask)</i></p>
  </div>
  
- <div style="padding-left: 10px;">
+ <div>
   <br>
   <p><b>If you feel that the model can be optimized or accuracy can be increased and wish to discuss with me, please feel free to contact</b><p>
   <a href="https://www.linkedin.com/in/dhruvang-gondalia/">
@@ -39,6 +39,6 @@ Final Output will be as follows :
 </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/davidlorenzo_47">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="5%" style="max-width: 100%;" style="padding-left: 10px;">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="5%" style="max-width: 100%;">  
 </a>
  </div>
